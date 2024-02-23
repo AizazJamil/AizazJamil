@@ -5,7 +5,7 @@ I appreciate being a team player, since it enhances the development of great pro
 <ul>
 	<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> &nbsp; Works at <strong>Scorpbit Technologies (SCT Group)</strong> as Front-End Developer, a multinational data and software company.</li>
 	<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> &nbsp; Current Stack <code>HTML5, CSS3, Bootstrap(3-4-5), SASS, SCSS, Javascript, jQuery, React, Redux, Tailwind CSS, Angular Material  etc</code>.</li>
-	<li><g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji> &nbsp; Learning about <code>Angular</code></li>
+	<li><g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji> &nbsp; Learning about <code>Angular</code> <code>Typescript</code></li>
 </ul>
 <br>
 <g-emoji class="g-emoji" alias="envelope_with_arrow" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e9.png">📩</g-emoji> &nbsp; Feel free to contact him. He is always there for you...
